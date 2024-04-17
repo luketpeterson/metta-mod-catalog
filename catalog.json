@@ -1,0 +1,10 @@
+
+{
+    "modules": [
+        {
+            "name": "metta-morph",
+            "remote_url": "https://github.com/trueagi-io/metta-morph/",
+            "extra_key": "nothing"
+        }
+    ]
+}
