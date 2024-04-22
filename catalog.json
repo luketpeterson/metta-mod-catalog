@@ -4,7 +4,7 @@
         {
             "name": "metta-morph",
             "git_url": "https://github.com/trueagi-io/metta-morph/",
-            "git_main_file": "mettamorph",
+            "git_main_file": "mettamorph.metta",
             "extra_key": "nothing"
         }
     ]
