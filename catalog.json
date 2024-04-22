@@ -3,7 +3,8 @@
     "modules": [
         {
             "name": "metta-morph",
-            "remote_url": "https://github.com/trueagi-io/metta-morph/",
+            "git_url": "https://github.com/trueagi-io/metta-morph/",
+            "git_subdir": "./metta-morph/",
             "extra_key": "nothing"
         }
     ]
