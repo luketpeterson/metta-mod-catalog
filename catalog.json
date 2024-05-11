@@ -1,12 +1,21 @@
 
 {
-    "modules": [
-        {
-            "name": "metta-morph",
-            "version": "0.0.1",
-            "git_url": "https://github.com/trueagi-io/metta-morph/",
-            "git_main_file": "mettamorph.metta",
-            "extra_key": "nothing"
-        }
-    ]
+    "modules": {
+        "metta-morph": [
+            {
+                "name": "metta-morph",
+                "version": "0.0.1",
+                "git_url": "https://github.com/trueagi-io/metta-morph/",
+                "git_main_file": "mettamorph.metta",
+                "extra_key": "nothing"
+            },
+            {
+                "name": "metta-morph",
+                "version": "0.0.2",
+                "git_url": "https://github.com/trueagi-io/metta-morph/",
+                "git_main_file": "mettamorph.metta",
+                "extra_key": "nothing"
+            }
+        ]
+    }
 }
